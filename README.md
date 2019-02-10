@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #chatbox
 This is a chatbot project .
 I have  used nltk library.
@@ -17,3 +18,8 @@ For a set of questions chatbox answers.
 ## Built With
 
 * [NLTK](https://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data.
+=======
+# chatbox_nlp
+This is a small project of chatbot.
+Depended on nltk library.
+>>>>>>> c1228a49f860160e00435c4a429e27fc58a64323
