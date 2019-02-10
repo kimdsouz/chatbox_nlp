@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #chatbox
 This is a chatbot project .
 I have  used nltk library.
@@ -22,4 +22,3 @@ For a set of questions chatbox answers.
 # chatbox_nlp
 This is a small project of chatbot.
 Depended on nltk library.
->>>>>>> c1228a49f860160e00435c4a429e27fc58a64323
