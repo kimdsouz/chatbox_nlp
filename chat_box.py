@@ -2,7 +2,11 @@ from nltk.chat.util  import Chat,reflections
 pairs = [
 [
     r"Where did i go",
-    ["You went to Shimoga",]
+    ["You went to DreamLand"]
+],
+[
+    r"I'm bored",
+    ["Don't worry, here's something you can do: Chat with me ;)"]
 ],
 [
     r"Hii I am (.*)",
