@@ -10,11 +10,15 @@ pairs = [
 ],
 [
     r"Hii I am (.*)",
-    ["Hello %1 How are you doing today??" ],
+    ["Hello %1 How are you doing today??" ]
 ],
 [
     r"How are you doing??",
-    ["I am doing Good,Thank you"],
+    ["I am doing Good,Thank you"]
+],
+[
+    r"How old are you?",
+    ["I am as old as you"]
 ],
 [
     r"quit",
